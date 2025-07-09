@@ -1,2 +1,1 @@
-# Tgit
-This is my first edit on GitHub!
+This line was added from my local computer!
